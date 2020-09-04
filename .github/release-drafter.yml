@@ -36,7 +36,7 @@ version-resolver:
     labels:
       - "patch"
       - "bugfix"
-      _ "test"
+      - "test"
       - "documentation"
       - "style"
       - "chore"
