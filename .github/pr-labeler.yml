@@ -1,8 +1,8 @@
 feature: ["feature/*", "feat/*"]
-bugfix: fix/*
+bugfix: ["fix/*", "bugfix/*"]
 style: style/*
 documentation: docs/*
-performance: perf/*
+performance: ["perf/*", "performance/*"]
 refactor: refactor/*
 test: test/*
 build: build/*
