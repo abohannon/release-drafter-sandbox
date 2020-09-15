@@ -16,10 +16,7 @@ categories:
       - "chore"
       - "build"
   - title: "🧪 Tests"
-    labels:
-      - "test"
-      - "testing"
-      - "tests"
+    label: "test"
   - title: "🌈 Style"
     label: "style"
   - title: "📕 Documentation"
@@ -43,7 +40,8 @@ version-resolver:
       - "documentation"
       - "style"
       - "chore"
-      - "build"
   default: patch
 template: |
+  $BODY
+
   $CHANGES
