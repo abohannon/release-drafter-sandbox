@@ -6,3 +6,5 @@ test
 bug
 performance
 update
+new feature
+
